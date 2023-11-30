@@ -1,6 +1,6 @@
-import multer from 'multer'
+ multer from 'multer'
 
-const storage = multer.diskStorage({
+const simporttorage = multer.diskStorage({
     destination: (req,file,cb) => {
         cb(null, './src/public/images')
     },
