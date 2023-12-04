@@ -31,7 +31,7 @@ app.use('/messages', messageRouter);
 const httpServer=app.listen(8080, ()=> console.log("Servidor activo en el puerto 8080"));
 const io= new Server(httpServer);
 
-const url="mongo";
+const url="mongodb+srv://byasoares:<4h6EgI1H4zGxvjhB>@cluster0.vbietrl.mongodb.net/";
 
 mongoose.connect(url, {dbName:'ecommerce'});
 
