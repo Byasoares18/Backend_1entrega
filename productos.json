@@ -4,7 +4,7 @@
 		"title": "producto 1",
 		"description": "producto1",
 		"price": "200",
-		"thumbnail": "http://localhost:8080/images/img1.jpg",
+		"thumbnail": "http://localhost:8080/img/img1.jpg",
 		"code": "C010",
 		"stock": "20"
 	},
@@ -13,7 +13,7 @@
 		"title": "producto  2",
 		"description": "producto2",
 		"price": "50",
-		"thumbnail": "http://localhost:8080/images/img12.jpg",
+		"thumbnail": "http://localhost:8080/img/img12.jpg",
 		"code": "C020",
 		"stock": "10"
 	}

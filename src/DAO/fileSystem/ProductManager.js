@@ -1,4 +1,3 @@
-
 import fs from 'fs';
 import {io} from '../../app.js';
 class ProductManager {
@@ -115,5 +114,3 @@ class ProductManager {
 }
 
 export default ProductManager;
-
-

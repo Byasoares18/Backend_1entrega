@@ -26,3 +26,4 @@ for (const button of addButtons) {
         })
     })
 }
+
